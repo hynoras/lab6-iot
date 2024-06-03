@@ -1,0 +1,27 @@
+Dataset/processed\NguyenVanTan\z5461812825593_283da306785e717669e888708f22f374.png 945 1495 1062 1625
+Dataset/processed\NguyenVanTan\z5461812594242_1c8d7b477b692d3ed584ec92d86e01bd.png 1026 1708 1217 1942
+Dataset/processed\NguyenVanTan\z5461692766476_e57c0ea9789f62a3f1e147b757a30f96.png 700 509 1541 1590
+Dataset/processed\NguyenVanTan\z5461692761366_e062ed9de15857d474196b6c57483fbb.png 657 575 1401 1534
+Dataset/processed\NguyenVanTan\z5461812594239_f4a2e7334a1ed60429450b9447884549.png 730 790 916 1007
+Dataset/processed\NguyenVanTan\z5461692780471_2dc8bbd70e63cfb9d59ea477020083eb.png 600 901 1314 1833
+Dataset/processed\NguyenVanTan\z5461812601098_c07d957c25d3e24be68b75d56adea58e.png 858 1803 1030 2013
+Dataset/processed\NguyenVanTan\z5461692766262_4c485c76cb1a45045ec616a41683ae62.png 787 825 1229 1374
+Dataset/processed\vinhquang\WIN_20240521_15_09_26_Pro.png 524 216 859 614
+Dataset/processed\vinhquang\z5461969277675_9998f86f3f2917f4e39bb414fd4c01ad.png 249 251 797 893
+Dataset/processed\vinhquang\z5461969333572_ad5b13e685778a7cb885e6e410772dea.png 281 225 801 835
+Dataset/processed\vinhquang\z5461969290580_cd282e7c39ad638fb482979dd9699ccc.png 245 275 776 899
+Dataset/processed\vinhquang\WIN_20240521_15_09_21_Pro.png 524 207 841 592
+Dataset/processed\vinhquang\WIN_20240521_15_09_22_Pro.png 526 209 845 601
+Dataset/processed\vinhquang\WIN_20240521_15_09_35_Pro.png 540 225 855 620
+Dataset/processed\vinhquang\WIN_20240521_15_09_23_Pro.png 528 205 845 612
+Dataset/processed\vinhquang\WIN_20240521_15_09_37_Pro.png 531 207 857 608
+Dataset/processed\vinhquang\z5461969335034_f53ae7e2cef87d6fe8913caf4618baed.png 270 322 798 960
+Dataset/processed\vinhquang\WIN_20240521_15_09_25_Pro.png 509 216 851 634
+Dataset/processed\vinhquang\z5461969214301_34c4867c118a3ada9f1410a972033cae.png 187 263 696 867
+Dataset/processed\vinhquang\WIN_20240521_15_09_28_Pro.png 528 222 863 615
+Dataset/processed\vinhquang\z5461969275419_31376a4aa9b25ce398bda03ad5f07a96.png 234 256 779 900
+Dataset/processed\vinhquang\z5461699080340_74746e96d4795a166fefd36d1f02fe5e.png 133 176 827 1098
+Dataset/processed\vinhquang\z5461699080668_4e5cf5c0d2163feb6f8a3ace561c3378.png 85 308 837 1257
+Dataset/processed\vinhquang\z5461969215613_f3a123c0f289d6a29c198f389a562d8d.png 253 235 770 837
+Dataset/processed\vinhquang\z5461969318618_a4f4385dde0e0cd9af1fdd5127074f4c.png 209 319 728 929
+Dataset/processed\vinhquang\WIN_20240521_15_09_25_Pro (2).png 521 208 861 622
